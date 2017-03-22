@@ -1,4 +1,4 @@
-package cliente;
+package model.cliente;
 
 public class ClienteTerceiroSetor extends Cliente{
 	private boolean statutoSocial;

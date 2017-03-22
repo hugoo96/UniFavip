@@ -1,4 +1,4 @@
-package cliente;
+package model.cliente;
 
 public class ClienteSetorPrivado extends Cliente {
 	private String tipoSetor; //produto//serviço//varejo

@@ -1,4 +1,4 @@
-package cliente;
+package model.cliente;
 
 public abstract class Cliente {
 	protected String nome;

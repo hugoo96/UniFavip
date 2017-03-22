@@ -1,6 +1,6 @@
-package cliente;
+package model.cliente;
 
-import org.eclipse.jdt.internal.compiler.ast.ThisReference;
+
 
 public class ClienteSetorPublico extends Cliente {
 	private String nivelOrgão;//municipal,estadual,federal
