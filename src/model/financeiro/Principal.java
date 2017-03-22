@@ -26,7 +26,7 @@ public class Principal {
 		balanco.adicionarTransacao(saida);
 		balanco.adicionarTransacao(investimento);
 		
-		System.out.println(balanco.buscaTransacaoPorCodigo(5));
+		System.out.println(balanco.buscaTransacaoPorCodigo(2));
 		
 	}
 
